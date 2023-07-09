@@ -1,4 +1,4 @@
-com.epic.taskmanager:
+com.epic.taskmanager
 TaskmanagerApplication.java:
 package com.epic.taskmanager;
 import org.springframework.boot.SpringApplication;
